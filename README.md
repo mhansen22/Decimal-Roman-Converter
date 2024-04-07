@@ -10,5 +10,9 @@ This code is an interactive tool (takes user input) for converting between Roman
 ## Time Spent: 
 I spent the full four hours on this project
 
+## HandWritten Notes:
 
 
+![IMG_9581](https://github.com/mhansen22/Decimal-Roman-Converter/assets/91987851/88d8bd3d-9690-4ac0-b1e6-f3bd1ab31aa0)
+![IMG_9582](https://github.com/mhansen22/Decimal-Roman-Converter/assets/91987851/bbcb9704-27f8-488a-8635-cd1c3ebef792)
+![IMG_9583](https://github.com/mhansen22/Decimal-Roman-Converter/assets/91987851/c45b3b7e-533b-452f-b499-362513f7bde5)
